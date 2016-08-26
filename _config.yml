@@ -1,0 +1,11 @@
+# Site settings
+title: Open Source software from LexiFi
+email: info@lexifi.com
+description: "foobar."
+baseurl: ""
+url: "http://lexifi.github.io"
+github_username:  lexifi
+
+# Build settings
+markdown: kramdown
+permalink: pretty
