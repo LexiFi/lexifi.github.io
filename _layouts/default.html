@@ -1,19 +1,29 @@
 <!DOCTYPE html>
 <html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
 
-  {% include head.html %}
+    <link rel="stylesheet" type="text/css" href="css/main.css" media="screen" />
 
-    <body>
+    <title>Open Source &#64; LexiFi</title>
+  </head>
 
-    {% include header.html %}
+  <body>
 
-    <div class="page-content">
-      <div class="wrap">
-      {{ content }}
+    <header>
+      <div class="container">
+        <h1 id="logo"><img src="http://www.lexifi.com/sites/default/files/lexifi_logo.png" alt="LexiFi" /> </h1>
+        <h1>Open Source at LexiFi</h1>
       </div>
+    </header>
+
+    <div class="container">
+      <section id="main_content">
+
+        {{ content }}
+
+      </section>
     </div>
-
-    {% include footer.html %}
-
-    </body>
+  </body>
 </html>
