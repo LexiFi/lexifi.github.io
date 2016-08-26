@@ -2,14 +2,6 @@
 layout: default
 ---
 
-About LexiFi
-------------
-
-- [LexiFi's corporate website](http://www.lexifi.com)
-
-- [LexiFi's GitHub homepage](http://www.github.com/lexifi)
-
-
 Projects
 --------
 
@@ -26,3 +18,11 @@ Projects
 ### [ppx_tools](http://github.com/alainfrisch/ppx_tools): tools for authors of ppx rewriters
 
 ### [dead_code_analyzer](http://github.com/lexifi/dead_code_analyzer): dead-code analyzer for OCaml
+
+
+About LexiFi
+------------
+
+- [LexiFi's corporate website](http://www.lexifi.com)
+
+- [LexiFi's GitHub homepage](http://www.github.com/lexifi)
